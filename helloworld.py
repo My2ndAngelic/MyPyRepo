@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+print ""
+print "Hello, how are you?"
+print "I'm fine, thanks. You?"
+print "I'm fine, thanks. Can you make something for me?"
+print "Yeah, Windows or macOS or Linux?"
+print "Windows Phone."
+print "Are you kidding me?"
+print "No, I have a Windows Phone. Seriously." #I'm kidding
+print "OK, just wait 3 months..."
+print "Three months later..."
+print ""
+print "My name is My2ndAngelic."
+print "Tôi là My2ndAngelic."
+print "Jag är My2ndAngelic."
+print "私はMy2ndAngelicです。"
+print ""
