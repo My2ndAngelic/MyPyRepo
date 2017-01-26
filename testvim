@@ -14,6 +14,6 @@ It would be useful to do so. Can you listen to those firework outside? Yes, thos
 
 Wonder if Vim actually support Unicode or Vietnamese, let's try.
 
-Xin chào thế giới. Bạn đang sử dụng Vim phiên bản xx.xx Nhưng màthế này, tại sao phiên bản x-unikey này lại kì thế, không biết có phải tại x-unikey hỗ trợ tiếng Việt trong Vim hay không? Ừ, phần gõ tiếng Việt hơi kì.
+Xin chào thế giới. Bạn đang sử dụng Vim phiên bản xx.xx Nhưng mà thế này, tại sao phiên bản x-unikey này lại kì thế, không biết có phải tại x-unikey hỗ trợ tiếng Việt trong Vim hay không? Ừ, phần gõ tiếng Việt hơi kì.
 
 Maybe I should fine a substitution for this.

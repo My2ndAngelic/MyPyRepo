@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 print ""
+print "Hello World."
 print "Hello, how are you?"
-print "I'm fine, thanks. You?"
 print "I'm fine, thanks. Can you make something for me?"
 print "Yeah, Windows or macOS or Linux?"
 print "Windows Phone."
